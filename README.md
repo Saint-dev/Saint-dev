@@ -1,5 +1,5 @@
-### hii. my name is lucas g saint
-[ ![STATUS](https://github-readme-stats.vercel.app/api?username={Saint-dev}&theme=blue-green)
+### hi. my name is lucas g saint
+![STATUS](https://github-readme-stats.vercel.app/api?username={saint-dev}&theme=blue-green)
 
 [ ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/xSaintdev)
 
